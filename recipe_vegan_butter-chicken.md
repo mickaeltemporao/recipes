@@ -1,10 +1,4 @@
-# Text File
-# AUTHOR:   Mickael Temporão
-# FILE:     /Users/home/Desktop/recipe_vegan_butter-chicken.md
-# ROLE:     Vegan Butter Chicken
-# CREATED:  2016-04-27 18:45:48
-# MODIFIED: 2016-05-04 09:41:27
-
+# Vegan Butter Chicken
 ## Ingredients
 - 2 small yellow onion (or one large), chopped
 - 1.25 cup low sodium vegetable broth
