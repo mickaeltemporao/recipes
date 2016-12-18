@@ -1,11 +1,6 @@
-# Text File
-# AUTHOR:   Mickael Temporão
-# FILE:     /Users/home/Desktop/recipe_asian-hot-pot.md
-# ROLE:     TODO (some explanation)
-# CREATED:  2016-04-20 16:57:24
-# MODIFIED: 2016-04-20 16:59:09
+# Asian Hot Pot
 
-# INGREDIENTS
+## INGREDIENTS
 - 3.75 ounce package cellophane (bean thread) or thin rice noodles
 - 1 tablespoon olive oil
 - 8 ounces shiitake or other mushrooms, stems discarded and caps thinly sliced
@@ -17,7 +12,7 @@
 - 4 carrots, thinly sliced
 - 8 ounces green beans, trimmed and cut into 2-inch pieces
 
-# DIRECTIONS
+## DIRECTIONS
 1. Prepare the noodles according to the package directions. Drain and cut into 3-inch lengths.
 2. Meanwhile, heat the oil in a large saucepan over medium-high heat. Add the mushrooms and cook, stirring occasionally, for 2 minutes.
 3. Add the broth, soy sauce, ginger, and chili sauce (if desired) and combine. Bring to a boil.
