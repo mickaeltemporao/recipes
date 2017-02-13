@@ -1,11 +1,6 @@
-# Text File
-# AUTHOR:   Mickael Temporão
-# FILE:     /Users/home/Desktop/recipe_curried-eggplant.md
-# ROLE:     Recipe : Curried Eggplant With Tomatoes and Basil
-# CREATED:  2016-04-20 17:00:03
-# MODIFIED: 2016-04-20 17:07:31
+# Curried Eggplant
 
-# INGREDIENTS
+## INGREDIENTS
 
 - 1 tup white basmati rice
 - kosher salt and black pepper
@@ -18,7 +13,7 @@
 - 1/2 cup fresh basil
 - 1/4 cup plain low-fat yogurt (preferably Greek), optional
 
-# DIRECTIONS
+## DIRECTIONS
 
 1. In a medium saucepan with a tight-fitting lid, combine the rice, 1 ½ cups water, and ½ teaspoon salt and bring to a boil. Stir the rice once, cover, and reduce heat to low. Simmer for 18 minutes. Remove from heat and let stand, covered, for 5 minutes.
 2. Meanwhile, heat the oil in a saucepan over medium-high heat. Add the onion and cook, stirring occasionally, until softened, 4 to 6 minutes.
