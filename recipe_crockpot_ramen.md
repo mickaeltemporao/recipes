@@ -1,8 +1,8 @@
-#Crockpot Caramelized Pork Ramen Noodle Soup w/Curry Roasted Acorn Squash.
+# Crockpot Caramelized Pork Ramen Noodle Soup w/Curry Roasted Acorn Squash.
 
-##Ingredients
+## Ingredients: 
 
-###Soup
+### Soup
 - 2-3 pounds pork shoulder roast (or butt)
 - 4 cups low sodium chicken broth, plus more of needed
 - 1/4-1/2 cup + 2-4 tablespoons low sodium soy sauce <--Use low sodium
@@ -30,6 +30,5 @@
 - Pepper, to taste
 
 
-##Instructions
-
+## Instructions
 Add the pork to the bowl of a crockpot. Pour the chicken broth, 1/4-1/2 cup soy sauce (depending on your taste), 1/4 cup rice vinegar and fish sauce over the pork. Add the thai red curry paste, ginger, sambal oelek, juice of 1 lime, Chinese five spice powder, black pepper and 1 tablespoon brown sugar. Cover the crockpot and cook on low for 7-8 hours or on high for 4-6 hours (I recommend going low and slow).About 40 minutes before you are ready to eat, roast the squash. Preheat the oven to 400 degrees F.In a small bowl mix together the melted coconut oil, curry powder, miso, brown sugar and a good pinch of pepper. Add the cubed squash to a greased baking sheet and pour the curry mixture over the squash. Toss well. Bake for 30-40 minutes, tossing a couple of times during cooking. You want the squash to be lightly browned and crisp.Meanwhile, remove the pork from the crockpot and add the mushrooms. Cover the crockpot and crank the heat up to high. Lightly shred the pork with two forks or your hands.Heat a large skillet over medium heat. Add the sesame oil. Once hot, add enough pork to cover just the surface of your skillet, do not over crowd the skillet. Sprinkle a little brown sugar over the pork, add 2 tablespoons soy sauce and 2 tablespoons rice vinegar, toss. Allow the pork to caramelize, about 2 minutes. Stir and allow the pork to continue to caramelize, about 3-5 minutes total. Remove the pork from the skillet, repeat with the remaining pork. Keep the pork warm.Add the Ramen noodles to the crockpot and allow them to cook 5 minutes. Once the noodles are cooked, stir in only half of the pork. Ladle the soup into bowls. Top with extra caramelized pork, curry roasted acorn squash and an egg. Season the egg with salt and pepper, Add the carrots, jalapeños, green onions and cilantro if desired. Happy slurping!
