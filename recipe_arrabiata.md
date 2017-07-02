@@ -1,4 +1,5 @@
 # Arrabbiata
+![Original recipe](https://www.realsimple.com/food-recipes/browse-all-recipes/asian-hot-pot)
 
 ## Ingredients
 - 4 tablespoons extra-virgin olive oil
