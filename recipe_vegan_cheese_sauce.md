@@ -1,7 +1,7 @@
 # Vegan Cheese Sauce
-http://eathealthyeathappy.com/life-changing-vegan-cheese-sauce-clean-glutenfree/
+![Original recipe](http://eathealthyeathappy.com/life-changing-vegan-cheese-sauce-clean-glutenfree/)
 
-## Ingredients
+## INGREDIENTS
 - 2 c peeled, cubed potato
 - 1 carrot, chopped
 - water for boiling
@@ -15,8 +15,7 @@ http://eathealthyeathappy.com/life-changing-vegan-cheese-sauce-clean-glutenfree/
 - 4 tsp mustard (Dijon or brown work well)
 - 1 tsp lower sodium soy sauce or tamari
 
-## Instructions
+## DIRECTIONS
 Combine the potato and carrot in a medium saucepan and cover with water. Bring to a boil and simmer for about 20 minutes, or until fork-tender. Drain and transfer to a food processor or power blender.
 Add all the other ingredients to the food processor and process for about 2 minutes, or until totally smooth.
 Serve over veggies, potatoes, rice or pasta for a healthy meatless meal!
-Recipe Type: Vegan, Clean Eating, Gluten Free
