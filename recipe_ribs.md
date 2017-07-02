@@ -1,11 +1,11 @@
-#BBQ Ribs
+# BBQ Ribs
 
-##Ingredients
+## Ingredients
 - sea salt
 - freshly ground black pepper
 - 1.5kg ribs, membrane removed
 
-###For the paste
+### For the paste
 - 5 tablespoons maple syrup
 - 1 dried chipotle
 - 1 tablespoon ground ginger
@@ -15,7 +15,7 @@
 - 1 teaspoon Chinese five-spice
 - 0.5teaspoon ground nutmeg
 
-###For the rad rum BBQ sauce
+### For the rad rum BBQ sauce
 - 4cm piece of ginger, peeled
 - 4 cloves of garlic, peeled
 - 125 ml tomato ketchup
@@ -26,7 +26,7 @@
 - 0.5 teaspoon dried chilli flakes
 - 50g soft dark brown sugar
 
-##Method
+## Directions
 Combine the paste ingredients and 2 teaspoons of salt in a bowl.
 Pat the ribs dry with kitchen paper, then place in a tray and rub all over with the paste.
 Cover with cling film and leave to marinate in the fridge for 24h.
