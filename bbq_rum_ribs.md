@@ -1,4 +1,5 @@
-# BBQ Ribs
+# BBQ RUM RIBS
+![Original recipe](http://www.jamieoliver.com/recipes/pork-recipes/dj-bbq-s-rad-rum-ribs/)
 
 ## Ingredients
 - sea salt
@@ -13,7 +14,7 @@
 - 1.5 teaspoons sweet paprika
 - 1.5 teaspoons ground cumin
 - 1 teaspoon Chinese five-spice
-- 0.5teaspoon ground nutmeg
+- 0.5 teaspoon ground nutmeg
 
 ### For the rad rum BBQ sauce
 - 4cm piece of ginger, peeled
