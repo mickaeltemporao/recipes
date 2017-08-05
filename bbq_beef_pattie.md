@@ -1,4 +1,4 @@
-# Barbecue Beef Burger Pattie
+# Barbecue Beef Pattie
 
 Serves 5 people
 
@@ -16,5 +16,4 @@ Serves 5 people
 - 5 Slices of Monterey Jack
 - 4 burger buns, split, toasted
 
-## Instructions
-- TODO:
+#TODO: Instructions
