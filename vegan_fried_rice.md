@@ -1,11 +1,11 @@
 # Vegan Fried Rice
 
-Prep time  :  15 mins
-Cook time  :   1 hour
-Total time :   1 hour 15 mins
-Source     : http://minimalistbaker.com/easy-vegan-fried-rice/
-Cuisine    : Vegan, Asian
-Serves     : 2 as entree, 4 as side
+- Prep time  :  15 mins
+- Cook time  :   1 hour
+- Total time :   1 hour 15 mins
+- Source     : http://minimalistbaker.com/easy-vegan-fried-rice/
+- Cuisine    : Vegan, Asian
+- Serves     : 2 as entree, 4 as side
 
 # INGREDIENTS
 For the rice & vegetables
