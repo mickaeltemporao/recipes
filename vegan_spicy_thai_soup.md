@@ -1,6 +1,6 @@
 # SPICY THAÏ CURRY NOODLE SOUP
 
-![Original Recipe](http://www.mellowmondays.com/new-blog/2016/8/29/spicy-thai-noodl-soup)
+[Original Recipe](http://www.mellowmondays.com/new-blog/2016/8/29/spicy-thai-noodl-soup)
 
 ## INGREDIENTS
 
