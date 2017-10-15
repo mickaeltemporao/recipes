@@ -1,5 +1,5 @@
 # Asian Hot Pot
-![Original recipe](https://www.realsimple.com/food-recipes/browse-all-recipes/asian-hot-pot)
+[Original recipe](https://www.realsimple.com/food-recipes/browse-all-recipes/asian-hot-pot)
 
 ## INGREDIENTS
 - 3.75 ounce package cellophane (bean thread) or thin rice noodles
