@@ -1,4 +1,3 @@
-
 # Sushi Rice
 
 [Source](https://www.food.com/recipe/minados-perfect-sushi-rice-119373)
