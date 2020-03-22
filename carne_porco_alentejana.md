@@ -8,11 +8,11 @@
 - 6 garlic cloves
 - 3 tablespoons "Massa de pimentão"
 - 150 ml white wine
-- 1 teaspoon pimenta
+- 1 teaspoon "pimenta" (spicy paprika)
 - 30 g lard
 - 30 g butter
 - 1 bunch Coriander
-- 1/2 kg french fries
+- 1/2 kg French fries
 - salt
 - 2 bay leaves
 - Black olives (optional)
