@@ -7,7 +7,7 @@
 - 2 Tsp Kosher Salt
 - 1 Tsp Baking Soda
 - 1 Cup Dark Brown Sugar
-- 1 Cup White Sugar
+- 1/2 Cup White Sugar
 - 2 Tsp Vanilla
 - 1 Tsp Espresso Powder
 - 2 Eggs
@@ -24,7 +24,7 @@
     - 1 Tsp Baking Soda
 2. Make Sugar Mix by combining:
     - 1 Cup Dark Brown Sugar
-    - 1 Cup White Sugar
+    - 1/2 Cup White Sugar
     - 2 Tsp Vanilla
     - 1 Tsp Espresso Powder
 3. Add 1 Egg + 1 Egg Yolk to Sugar Mix and mix for 5 minutes
