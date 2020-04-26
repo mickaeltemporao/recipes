@@ -7,12 +7,12 @@
 - 2 Tsp Kosher Salt
 - 1 Tsp Baking Soda
 - 1 Cup Dark Brown Sugar
-- 1 Cup White Sugar
+- 1/2 Cup White Sugar
 - 2 Tsp Vanilla
 - 1 Tsp Espresso Powder
 - 2 Eggs
 - 1/2 Cup Semisweet Chocolate Chip Cookies
-- 5 oz Dark Chocolate 
+- 5 oz Dark Chocolate
 
 ## DIRECTIONS
 
@@ -27,8 +27,9 @@
     - 1 Cup White Sugar
     - 2 Tsp Vanilla
     - 1 Tsp Espresso Powder
-3. Add 1 Egg + 1 Egg Yolk to Sugar Mix and mix for 5 minutes
-4. Add Flower Mix to Sugar Mix and Mix for 2 minutes
-5. Add Chocolate and let rest for 1 hour. This should give you ~1kg of cookie dough
-6. Make 45g cookies
+3. Add Baked butter to Sugar Mix and mix for 2 minute
+4. Add 1 Egg + 1 Egg Yolk to Sugar Mix and mix for 5 minutes
+5. Add Flower Mix to Sugar Mix and Mix for 2 minutes
+6. Add Chocolate and let rest for 1 hour. This should give you ~1kg of cookie dough
+7. Make 45g cookies
 
