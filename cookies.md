@@ -24,7 +24,7 @@
     - 1 Tsp Baking Soda
 2. Make Sugar Mix by combining:
     - 1 Cup Dark Brown Sugar
-    - 1 Cup White Sugar
+    - 1/2 Cup White Sugar
     - 2 Tsp Vanilla
     - 1 Tsp Espresso Powder
 3. Add Baked butter to Sugar Mix and mix for 2 minute
