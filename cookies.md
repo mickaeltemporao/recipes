@@ -20,7 +20,7 @@
 1. Make Powder Mix by combining:
     - 1 Cup Bread Flour
     - 3/4 All Purpose Flour
-    - 2 Tsp Kosher Salt
+    - 1.5 Tsp Kosher Salt
     - 1 Tsp Baking Soda
 2. Make Sugar Mix by combining:
     - 1 Cup Dark Brown Sugar
@@ -32,4 +32,4 @@
 5. Add Flower Mix to Sugar Mix and Mix for 2 minutes
 6. Add Chocolate and let rest for 1 hour. This should give you ~1kg of cookie dough
 7. Make 45g cookies
-
+8. Cook in the oven at 350* Fahrenheit for 12 to 14 minutes.
