@@ -1,4 +1,4 @@
-# Cookies
+# Awesome Cookie Recipe
 
 ## INGREDIENTS
 - 1 Cup Butter
@@ -15,7 +15,6 @@
 - 5 oz Dark Chocolate
 
 ## DIRECTIONS
-
 0. Cook butter until brown.
 1. Make **Flour Mix** by combining in a separate bowl:
     - 1 Cup Bread Flour
