@@ -22,7 +22,7 @@
     - 3/4 All Purpose Flour
     - 1.5 Tsp Kosher Salt
     - 1 Tsp Baking Soda
-2. Make **Sugar Mix** by combining in a separate bowl:
+2. Make **Sugar Mix** by combining in another separate bowl:
     - 1 Cup Dark Brown Sugar
     - 1/2 Cup White Sugar
     - 2 Tsp Vanilla
