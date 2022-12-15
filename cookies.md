@@ -1,18 +1,19 @@
 # Awesome Cookie Recipe
 
 ## INGREDIENTS
-- 1 Cup Butter
-- 1 Cup Bread Flour
-- 3/4 All Purpose Flour
+- 1 Cup Butter (225g)
+- 1 Cup Bread Flour (T65)
+- 3/4 All Purpose Flour (T45)
 - 1.5 Tsp Kosher Salt
 - 1 Tsp Baking Soda
 - 1 Cup Dark Brown Sugar
 - 1/2 Cup White Sugar
 - 2 Tsp Vanilla
 - 1 Tsp Espresso Powder
-- 2 Eggs
+- 1 Tsp Brown Rum
+- 2 Eggs (1 Egg + 1 Egg Yolk = 75g)
 - 1/2 Cup Semisweet Chocolate Chip Cookies
-- 5 oz Dark Chocolate
+- 5 oz Dark Chocolate 
 
 ## DIRECTIONS
 0. Cook butter until brown.
@@ -25,6 +26,7 @@
     - 1 Cup Dark Brown Sugar
     - 1/2 Cup White Sugar
     - 2 Tsp Vanilla
+    - 1 Tsp Rum
     - 1 Tsp Espresso Powder
 3. Add Baked butter to Sugar Mix and mix for 2 minutes
 4. Add 1 Egg + 1 Egg Yolk to Sugar mix and mix for 5 minutes
