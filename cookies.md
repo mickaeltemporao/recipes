@@ -3,14 +3,14 @@
 ## INGREDIENTS
 - 1 Cup Butter (225g)
 - 1 Cup Bread Flour (T65)
-- 3/4 All Purpose Flour (T45)
+- 3/4 All Purpose Flour (T45) (or T65 only but use 1.75 Cups)
 - 1.5 Tsp Kosher Salt
 - 1 Tsp Baking Soda
-- 1 Cup Dark Brown Sugar
-- 1/2 Cup White Sugar
+- 1 Cup Dark Brown Sugar (125g)
+- 1/2 Cup White Sugar (125g TODO: check if this weighs the same as 1 cup dark brown sugar)
 - 2 Tsp Vanilla
 - 1 Tsp Espresso Powder
-- 1 Tsp Brown Rum
+- 1 Tsp Brown Rum (optional)
 - 2 Eggs (1 Egg + 1 Egg Yolk = 75g)
 - 1/2 Cup Semisweet Chocolate Chip Cookies
 - 5 oz Dark Chocolate 
