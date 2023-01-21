@@ -2,7 +2,7 @@
 
 ## INGREDIENTS
 - 1 Cup Butter (225g)
-- 1 Cup Bread Flour (T65)
+- 1 Cup Bread Flour (T65; 150g) 
 - 3/4 All Purpose Flour (T45) (or T65 only but use 1.75 Cups)
 - 1.5 Tsp Kosher Salt
 - 1 Tsp Baking Soda
