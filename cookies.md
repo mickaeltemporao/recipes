@@ -12,8 +12,8 @@
 - 1 Tsp Espresso Powder (3g)
 - 1 Tsp Brown Rum (optional)
 - 2 Eggs (1 Egg + 1 Egg Yolk = 75g)
-- 1/2 Cup Semisweet Chocolate Chip Cookies
-- 5 oz Dark Chocolate 
+- 1/2 Cup Semisweet Chocolate Chip Cookies (62.5g)
+- 5 oz Dark Chocolate (100g)
 
 ## DIRECTIONS
 0. Cook butter until brown. While the butter cooks, preprare #1 & #2.
