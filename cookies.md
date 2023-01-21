@@ -16,7 +16,7 @@
 - 5 oz Dark Chocolate 
 
 ## DIRECTIONS
-0. Cook butter until brown.
+0. Cook butter until brown. While the butter cooks, preprare #1 & #2.
 1. Make **Flour Mix** by combining in a separate bowl:
     - 1 Cup Bread Flour
     - 3/4 All Purpose Flour
