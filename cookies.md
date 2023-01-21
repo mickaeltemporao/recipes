@@ -9,7 +9,7 @@
 - 1 Cup Dark Brown Sugar (125g)
 - 1/2 Cup White Sugar (125g TODO: check if this weighs the same as 1 cup dark brown sugar)
 - 2 Tsp Vanilla (18g)
-- 1 Tsp Espresso Powder
+- 1 Tsp Espresso Powder (3g)
 - 1 Tsp Brown Rum (optional)
 - 2 Eggs (1 Egg + 1 Egg Yolk = 75g)
 - 1/2 Cup Semisweet Chocolate Chip Cookies
