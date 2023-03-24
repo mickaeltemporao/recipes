@@ -1,6 +1,12 @@
-# recipes
+# Awesome Recipes
+
+## Most Used Recipes
+
+- [Cookies](cookies.md)
 
 ## TODO:
-- [ ] Add contribution guidelines
+- [ ] Add recipes in [to_add.md](to_add.md)
 - [ ] Organize folders
-- [ ] Make a nicer readme page
+- [ ] Add contribution guidelines
+- [ ] Write a nicer readme page
+

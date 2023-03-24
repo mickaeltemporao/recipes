@@ -1,6 +1,19 @@
-Maple Glazed Tempeh Sandwich
-http://greenevi.com/avocado-and-maple-glazed-tempeh-sandwich/
-Peanut Buter and Basil Sandwich
-https://minimalistbaker.com/peanut-butter-and-basil-sandwich/
 
-https://www.popsugar.com/fitness/Veggie-Sandwich-Recipe-35415233
+- [Maple Glazed Tempeh Sandwich](http://greenevi.com/avocado-and-maple-glazed-tempeh-sandwich/)
+- [Peanut Buter and Basil Sandwich](https://minimalistbaker.com/peanut-butter-and-basil-sandwich/)
+- [Veggie Sandwich Recipe](https://www.popsugar.com/fitness/Veggie-Sandwich-Recipe-35415233)
+- [Bolognese](https://basicswithbabish.co/basicsepisodes/bolognese)
+- [Asperges à la Flamande](https://www.quelquesgrammesdegourmandise.com/asperges-a-la-flamande/)
+- [Chicken Teriyaki](https://cooking.nytimes.com/recipes/1012984-chicken-teriyaki)
+- [Creamy Miso Soup](https://justinesnacks.com/creamy-miso-soup/)
+- [Pizza Dough](https://www.joshuaweissman.com/post/homemade-authentic-pizza)
+- [Miso Soup by Tim Anderson](https://khoollect.com/eat-kitchen/dine-in/recipe-best-miso-soup-tim-anderson/)
+- [Carottes confites](https://www.aux-fourneaux.fr/carottes-fanes-roties-et-confites-au-four-39474/)
+- [White Bread](https://www.lesfousdeterroirs.fr/nos-recettes/pain-maison)
+- [Tacos de Carnitas](https://cooking.nytimes.com/recipes/1012463-tacos-de-carnitas)
+- [Coconut Curry](https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime)
+- [Naan bread](https://www.bbcgoodfood.com/recipes/naan-bread)
+- [Pico de Gallo](https://www.allrecipes.com/recipe/203800/pico-de-gallo/)
+- [Guacamole](https://cooking.nytimes.com/recipes/1008-guacamole)
+- [Poêlé de fenouils](https://www.papillesetpupilles.fr/2006/05/pole-de-fenouils-lhuile-dolive.html/)
+
