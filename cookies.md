@@ -1,4 +1,4 @@
-# Awesome Cookie Recipe
+# The Long Awaited Cookie Recipe
 
 ## INGREDIENTS
 - 1 Cup Butter (225g)
@@ -16,13 +16,13 @@
 - 5 oz Dark Chocolate (100g)
 
 ## DIRECTIONS
-0. Cook butter until brown. While the butter cooks, preprare #1 & #2.
-1. Make **Flour Mix** by combining in a separate bowl:
+0. Cook the butter until it turns golden brown. While the butter cooks, prepare #1 & #2.
+1. **Flour Mix** combine in a separate bowl:
     - 1 Cup Bread Flour
     - 3/4 All Purpose Flour
     - 1.5 Tsp Kosher Salt
     - 1 Tsp Baking Soda
-2. Make **Sugar Mix** by combining in another separate bowl:
+2. **Sugar Mix** combine in another separate bowl:
     - 1 Cup Dark Brown Sugar
     - 1/2 Cup White Sugar
     - 2 Tsp Vanilla
@@ -32,7 +32,20 @@
 4. Add 1 Egg + 1 Egg Yolk to Sugar mix and mix for 5 minutes
 5. Add Flour Mix to Sugar Mix and mix for 2 minutes
 6. Add Chocolate and let rest for 1 hour. This should give you ~1kg of cookie dough.
-7. Make 45g cookies.
-8. Cook in the oven at 350* Fahrenheit for 12 to 14 minutes. 
-    - Before cooking all your cookies you need to test your oven!
-    - Start by cooking a small batch (2-4 cookies). When done, let these rest for 15-30 minutes and check if they are done. If you feel that they are too soft, add an extra minute to the next batch, until you find the perfect cooking time! It will vary depending on your oven! Undercooked is always better than overcooked. Don't get caught, but you will...
+7. Make nice 45g round cookie balls. 
+  - Do not crush them. The heat from the oven will make them melt and turn into perfectly looking cookies!
+  - You can freeze the cookie dough balls and only bake what you eat.
+8. Set the oven at 350* Fahrenheit (180* Celsius). Do not put any cookie inside before 350.
+9. Bake in the oven at 350* Fahrenheit (180* Celsius) for 10 to 12 minutes.
+  - If this is the first time using your oven with this recipe read the [Benchmark](#Benchmark) section below.
+10. When they are done, remove them from the oven and let them rest for 15 to 30 minutes and eat them all! 
+
+### Benchmark 
+Benchmark the baking time needed for your oven to bake perfect cookies.
+- Set the oven at 350* Fahrenheit (180* Celsius) 
+- Put 1 or 2 cookies on parchment paper.
+- Bake for 10 to 14 minutes usually, start with 10 minutes and adjust gradually.
+- Let them cool for 15 to 30 minutes and try them. 
+- They should have a nice golden crust on the outside while the inside stays soft and chewy.
+- If you feel that they are too soft, you should add an extra minute to the next batch until you find the perfect baking time that suits your oven and tastes! 
+- Note that underbaked is always better than overbaked! Your cookies will turn stones when you've gone too far... Trust me you don't want that!
