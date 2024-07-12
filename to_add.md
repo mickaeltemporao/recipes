@@ -2,7 +2,6 @@
 - [Asperges à la Flamande](https://www.quelquesgrammesdegourmandise.com/asperges-a-la-flamande/)
 - [Bolognese](https://basicswithbabish.co/basicsepisodes/bolognese)
 - [Bouletttes sauce lapin]()
-- [Carottes confites](https://www.aux-fourneaux.fr/carottes-fanes-roties-et-confites-au-four-39474/)
 - [Chicken Teriyaki](https://cooking.nytimes.com/recipes/1012984-chicken-teriyaki)
 - [Coconut Curry](https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime)
 - [Creamy Miso Soup](https://justinesnacks.com/creamy-miso-soup/)
