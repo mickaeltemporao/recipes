@@ -11,7 +11,7 @@
 ## PRÉPPARATION
 1. Préchauffer le four à 180°.
 - Couper les fanes.
-- Éplucher les carottes, les laver.
+- Bien laver carrottes.
 - Faites-les blanchir pendant 10 minutes dans de l'eau bouillante.
 - Hacher/presser l'ail.
 2. Étaler les carottes sur une plaque du four recouverte de papier sulfurisé. Saupoudrez d'ail, de sel et de cumin. Arrosez d'huile d'olive et de miel.
