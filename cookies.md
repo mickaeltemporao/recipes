@@ -24,8 +24,7 @@
     - 2 cuillères à café d'extrait de vanille
     - 1 cuillère à café de café finement moulu
 3. **Mélange Farine** : Dans un autre bol séparé, combinez :
-    - 150g de farine de pain (T65; 1 tasse)
-    - 3/4 tasse de farine tout usage (T45)
+    - 262.5g de farine T65 (1.75 tasse)
     - 1.5 cuillères à café de sel casher
     - 1 cuillère à café de bicarbonate de soude
 #### Combinaison des Ingrédients
