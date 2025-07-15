@@ -1,5 +1,4 @@
-# The Long Awaited Cookie Recipe
-
+# Homebrewed Cookies 
 ## FR
 
 ### INGRÉDIENTS (TODO: Vérifier poids tasse/grammes)
