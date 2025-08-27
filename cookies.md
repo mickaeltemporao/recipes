@@ -12,7 +12,7 @@
 - 1 cuillère à café de café moulu (3g)
 - 2 œufs (1 œuf entier + 1 jaune d'œuf = 75g)
 - 100g de chocolat noir
-- 50g de chocolat au lait
+- 50g de chocolat au lait (test 75g cote d'or lait 3briques)
 
 ### INSTRUCTIONS
 #### Préparation
